@@ -1,0 +1,5 @@
+accounts:
+  message: "Welcome to Banking-Loans Main MicroService"
+  contactDetails: 
+   name: "banking.co.prod"
+   email: "customer_reach@mainbanking.com"

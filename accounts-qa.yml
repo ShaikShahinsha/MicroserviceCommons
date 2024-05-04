@@ -1,0 +1,5 @@
+accounts:
+  message: "Welcome to Banking-Accounts Test MicroService"
+  contactDetails: 
+   name: "banking.co.test"
+   email: "customer_reach@testbanking.com"
