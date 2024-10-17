@@ -1,7 +1,19 @@
+# accounts:
+#   message: "Welcome to Banking-Accounts Test MicroService"
+#   contactDetails: 
+#    name: "banking.co.test"
+#    email: "{cipher}a8448973975be6e139fe9af7747af67107ae8328301363c7ca63ee91d2f20405f77fee9ca599fe0662318390473e56ec"
+#    #a8448973975be6e139fe9af7747af67107ae8328301363c7ca63ee91d2f20405f77fee9ca599fe0662318390473e56ec
+#    #customer_reach@testbanking.com
+build:
+  version: "2.0"
+
 accounts:
-  message: "Welcome to Banking-Accounts Test MicroService"
-  contactDetails: 
-   name: "banking.co.test"
-   email: "{cipher}a8448973975be6e139fe9af7747af67107ae8328301363c7ca63ee91d2f20405f77fee9ca599fe0662318390473e56ec"
-   #a8448973975be6e139fe9af7747af67107ae8328301363c7ca63ee91d2f20405f77fee9ca599fe0662318390473e56ec
-   #customer_reach@testbanking.com
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
+
